@@ -1,0 +1,301 @@
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.exe.config
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.exe
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.pdb
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Chart.dll
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.dll
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Data.dll
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.xml
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Chart.xml
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Data.xml
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csprojAssemblyReference.cache
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe.config
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\MainWindow.g.cs
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\UserControl1.g.cs
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\App.g.cs
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf_MarkupCompile.cache
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf_MarkupCompile.lref
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\MainWindow.baml
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\UserControl1.baml
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.g.resources
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.Properties.Resources.resources
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.GenerateResource.cache
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe.licenses
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.CoreCompileInputs.cache
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.CopyComplete
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.pdb
+D:\Revesion_4eme_GI\Csharp\Semestre2\prjt_wpf\prjt_wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csprojAssemblyReference.cache
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe.config
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\MainWindow.g.cs
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\StatisticUserControl.g.cs
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\UserControl1.g.cs
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\App.g.cs
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf_MarkupCompile.cache
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf_MarkupCompile.lref
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.pdb
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.exe.config
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.exe
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.pdb
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Chart.dll
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Chart.xml
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\MainWindow.baml
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\StatisticUserControl.baml
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\UserControl1.baml
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.g.resources
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.Properties.Resources.resources
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.GenerateResource.cache
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe.licenses
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.CoreCompileInputs.cache
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.CopyComplete
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\GestionEtudiant.g.cs
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\GestionEtudiant.baml
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\ModifierEtudiant.baml
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\ModifierEtudiant.g.cs
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\Login.g.cs
+C:\Users\warda\Downloads\Compressed\prjt_wpf\prjt_wpf\obj\Debug\Login.baml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.exe.config
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.exe
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.pdb
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Chart.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Chart.xml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe.config
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\ModifierEtudiant.baml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\GestionEtudiant.g.cs
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\Login.g.cs
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\MainWindow.g.cs
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\ModifierEtudiant.g.cs
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\StatisticUserControl.g.cs
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\UserControl1.g.cs
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\App.g.cs
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf_MarkupCompile.cache
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf_MarkupCompile.lref
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\GestionEtudiant.baml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\Login.baml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\MainWindow.baml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\StatisticUserControl.baml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\UserControl1.baml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.g.resources
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.Properties.Resources.resources
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.GenerateResource.cache
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe.licenses
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.CoreCompileInputs.cache
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.CopyComplete
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.pdb
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfGauge.WPF.dll
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfGauge.WPF.xml
+C:\Users\warda\Desktop\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csprojAssemblyReference.cache
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.exe.config
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.exe
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.pdb
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfGauge.WPF.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Chart.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfGauge.WPF.xml
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Chart.xml
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csprojAssemblyReference.cache
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe.config
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\ModifierEtudiant.baml
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\GestionEtudiant.g.cs
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\Login.g.cs
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\MainWindow.g.cs
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\ModifierEtudiant.g.cs
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\StatisticUserControl.g.cs
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\UserControl1.g.cs
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\App.g.cs
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf_MarkupCompile.cache
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf_MarkupCompile.lref
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\GestionEtudiant.baml
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\Login.baml
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\MainWindow.baml
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\StatisticUserControl.baml
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\UserControl1.baml
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.g.resources
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.Properties.Resources.resources
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.GenerateResource.cache
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe.licenses
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.CoreCompileInputs.cache
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.CopyComplete
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe
+C:\Users\warda\Desktop\New folder\dotNet\WPF\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.pdb
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.exe.config
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.exe
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.pdb
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfGauge.WPF.xml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Chart.xml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.AssemblyReference.cache
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\ModifierEtudiant.baml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\GestionEtudiant.g.cs
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\Login.g.cs
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\ModifierEtudiant.g.cs
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\StatisticUserControl.g.cs
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\UserControl1.g.cs
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\App.g.cs
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf_MarkupCompile.cache
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf_MarkupCompile.lref
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\GestionEtudiant.baml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\Login.baml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\MainWindow.baml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\StatisticUserControl.baml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\UserControl1.baml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.g.resources
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.Properties.Resources.resources
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.GenerateResource.cache
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe.licenses
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.CopyComplete
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.pdb
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Chart.Base.dll
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Chart.Windows.dll
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Grouping.Base.dll
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Chart.Base.xml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Chart.Windows.xml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Grouping.Base.xml
+C:\Users\Mohamed El makhfi\Desktop\4EME ANNEE\C# .NET\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.exe.config
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.exe
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\prjt_wpf.pdb
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Chart.Base.dll
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Chart.Windows.dll
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Grouping.Base.dll
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Chart.Base.xml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Chart.Windows.xml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Grouping.Base.xml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.SfGauge.WPF.xml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Chart.xml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\ModifierEtudiant.baml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\GestionEtudiant.g.cs
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\Login.g.cs
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\ModifierEtudiant.g.cs
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\StatisticUserControl.g.cs
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\UserControl1.g.cs
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf_MarkupCompile.cache
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf_MarkupCompile.lref
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\GestionEtudiant.baml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\Login.baml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\StatisticUserControl.baml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\UserControl1.baml
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.g.resources
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.Properties.Resources.resources
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe.licenses
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.csproj.CopyComplete
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.exe
+C:\Users\DELL\Desktop\4eme annee\prjt_wpf\prjt_wpf\prjt_wpf\obj\Debug\prjt_wpf.pdb

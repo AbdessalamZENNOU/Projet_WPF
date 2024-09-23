@@ -1,0 +1,81 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:prjt_wpf"
+             xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="prjt_wpf.UserControl1"
+             mc:Ignorable="d" Height="734" Width="1111.25"
+
+            >
+    <UserControl.Resources>
+        <Style x:Key="FocusVisual">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Rectangle Margin="2" SnapsToDevicePixels="true" Stroke="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" StrokeThickness="1" StrokeDashArray="1 2"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <SolidColorBrush x:Key="Button.Static.Background" Color="#FFDDDDDD"/>
+        <SolidColorBrush x:Key="Button.Static.Border" Color="#FF707070"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Background" Color="#FFBEE6FD"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Border" Color="#FF3C7FB1"/>
+        <SolidColorBrush x:Key="Button.Pressed.Background" Color="#FFC4E5F6"/>
+        <SolidColorBrush x:Key="Button.Pressed.Border" Color="#FF2C628B"/>
+        <SolidColorBrush x:Key="Button.Disabled.Background" Color="#FFF4F4F4"/>
+        <SolidColorBrush x:Key="Button.Disabled.Border" Color="#FFADB2B5"/>
+        <SolidColorBrush x:Key="Button.Disabled.Foreground" Color="#FF838383"/>
+        
+    </UserControl.Resources>
+    <UserControl.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded"/>
+    </UserControl.Triggers>
+
+    <Grid Margin="0,0,40,37">
+
+
+        <telerik:RadCarousel x:Name="Rad" HorizontalAlignment="Left" Height="280" Margin="95,30,0,0" VerticalAlignment="Top" Width="743" Loaded="RadCarousel_Loaded" Background="{x:Null}">
+            <telerik:RadCarousel.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel HorizontalAlignment="Center" >
+                        <TextBlock Text="{Binding id_filiere}" TextAlignment="Center" />
+                        <TextBlock Text="{Binding nom_filiere}" TextAlignment="Center" />
+                        <TextBlock Text="{Binding respo}" TextAlignment="Center" />
+                    </StackPanel>
+                </DataTemplate>
+            </telerik:RadCarousel.ItemTemplate>
+        </telerik:RadCarousel>
+
+
+        <Grid HorizontalAlignment="Left"  VerticalAlignment="Top" Width="729" Height="217" Margin="147,315,0,0">
+            <Grid.Background>
+                <SolidColorBrush Color="White" Opacity="0.6"/>
+            </Grid.Background>
+            <Button Content="Modifier" Width="150" Foreground="White" Background="#77A630" Height="37" Margin="449,91,123,0" VerticalAlignment="Top" Click="Button_Click_1" Style="{DynamicResource ButtonStyle1}">
+
+            </Button>
+
+            <TextBox x:Name="textbox1" Height="35" Margin="130,34,0,0" VerticalAlignment="Top" TextWrapping="Wrap" Text="{Binding ElementName=Rad,Path=SelectedItem.id_filiere,Mode=OneWay}" HorizontalAlignment="Left" Width="150" IsEnabled="False"/>
+            <TextBox x:Name="textbox2" Height="34"  Margin="130,105,0,0" VerticalAlignment="Top" TextWrapping="Wrap" Text="{Binding ElementName=Rad,Path=SelectedItem.nom_filiere,Mode=OneWay}" HorizontalAlignment="Left" Width="150"/>
+
+            <Label Content="Id Filiere" Width="89" Height="34" Margin="167,-1,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="18" FontWeight="Bold"/>
+            <Label Content="Gestion des filières" Width="177" Height="34" Margin="271,-267,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="18" FontWeight="Bold"/>
+            <Label Content="Nom de filiere" Height="34" Margin="141,68,0,0" VerticalAlignment="Top" FontSize="18" RenderTransformOrigin="0.85,1.394" HorizontalAlignment="Left" Width="131" FontWeight="Bold"/>
+
+
+            <Button Content="Supprimer" Foreground="White" Background="#403E2C" Margin="452,154,127,0" Click="Button_Click_2" Style="{DynamicResource ButtonStyle1}" Height="37" VerticalAlignment="Top">
+
+            </Button>
+
+            <Button Content="Ajouter" Foreground="White" Background="#D9CC2B" Width="150" Height="37" Margin="449,26,123,0" VerticalAlignment="Top" Click="Button_Click" Style="{DynamicResource ButtonStyle1}">
+
+            </Button>
+            <Label Content="Responsable de Filiere" Height="34" Margin="107,140,0,0" VerticalAlignment="Top" FontSize="18" RenderTransformOrigin="0.85,1.394" HorizontalAlignment="Left" Width="199" FontWeight="Bold"/>
+            <TextBox x:Name="textbox3" Height="34"  Margin="130,172,0,0" VerticalAlignment="Top" TextWrapping="Wrap" Text="{Binding SelectedItem.respo, ElementName=Rad, Mode=OneWay}" HorizontalAlignment="Left" Width="150"/>
+        </Grid>
+
+
+    </Grid>
+</UserControl>

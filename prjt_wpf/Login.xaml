@@ -1,0 +1,27 @@
+﻿<Window x:Class="prjt_wpf.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:prjt_wpf"
+        mc:Ignorable="d"
+        Title="Login" Height="450" Width="800">
+    <Grid Margin="0,0,4.6,0">
+        <Image Source="loginbg.jpg" Stretch="UniformToFill" Opacity="0.95" Margin="0,0,-18,0"/>
+        <Border  CornerRadius="10" Margin="20">
+            <StackPanel Margin="20">
+                <Label Content="Admin Login" FontWeight="Bold" Foreground="#77A630" FontSize="25" HorizontalAlignment="Center"/>
+                <Separator Height="29" Width="432"></Separator>
+                <Label Content="Username" FontSize="20" FontWeight="Bold" Foreground="#3C3C3B" Width="108"/>
+                <TextBox Name="txtUsername" Background="white" Foreground="Black" FontSize="18" Width="346" Height="33"/>
+                <Label Content="Password" FontSize="20" FontWeight="Bold" Foreground="#3C3C3B" Width="98"/>
+                <PasswordBox Name="txtPassword" Background="white" Foreground="Black" FontSize="18" Width="342" Height="35" />
+                <Button Name="btnSubmit"  Click="BtnSubmit_Click"   Content="Submit" Margin="80 40" Background="#3C3C3B" Foreground="White" FontSize="18" Width="238" Height="39"/>
+                <Label  Name="msg" Content="" Foreground="White" Margin="150 1" FontSize="18"/>
+
+
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</Window>

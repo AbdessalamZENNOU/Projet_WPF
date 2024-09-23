@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Db" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=MEDELMAKHFI\SQLEXPRESS;Initial Catalog=Db;Integrated Security=True" SettingsObjectName="prjt_wpf.Properties.Settings" SettingsPropertyName="DbConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.admin" Member="admins">
+    <Type Name="admin">
+      <Column Name="username" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.etudiant" Member="etudiants">
+    <Type Name="etudiant">
+      <Column Name="cne" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nom" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="prenom" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="dateNaiss" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="tof" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="id_filiere" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.filiere" Member="filieres">
+    <Type Name="filiere">
+      <Column Name="id_filiere" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nom_filiere" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="respo" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
